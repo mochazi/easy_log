@@ -5,3 +5,7 @@
 
 > **C++ 简单日志库跨平台（Windows、Linux、Android）**
 >> **该项目仅限学习交流，请勿用于商业用途，如有侵权，请联系删除。**
+
+---
+
+## [B站视频教程](https://www.bilibili.com/video/BV1w84y1B7xe)
